@@ -30,8 +30,7 @@ public class Usuario {
 	//@Getter @Setter @Column(nullable = false)
 	//private String		nivel;
 	
-	@Column(name = "statusAssociativo", columnDefinition = "boolean default false")
-	private Boolean status;
+	//@Column(name = "statusAssociativo", columnDefinition = "boolean default false")
+	//private Boolean status;
 	
-
 }
