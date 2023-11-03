@@ -9,8 +9,7 @@ package br.com.biblioteca.projetobiblioteca.view;
  * @author alifi
  */
 public class LoginView extends javax.swing.JFrame {
-
-    /**
+	/**
      * Creates new form LoginView
      */
     public LoginView() {
